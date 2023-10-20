@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Hive, Redis and MLFlow**
 
+- 🌌 I'm posting quite frequently about my journey in DS/ML as well as share research in my blog: https://t.me/burkunovich
+
 - 🤝 I’m always looking forward to volunteering at open-source projects that involve **scientific research** or projects **that promote positive social change**
 
 - 📫 How to reach me **@yturkunov (TG)**
