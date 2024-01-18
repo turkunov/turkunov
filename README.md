@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **@yturkunov (TG)**
 
-- 📄 You can find more details on my experience and range of skills in my resume: [https://drive.google.com/file/d/1weLBGpEx_XrPQLm6JEoBc0ZgszWPeeJ6/view](https://drive.google.com/file/d/1weLBGpEx_XrPQLm6JEoBc0ZgszWPeeJ6/view)
+- 📄 You can find more details on my experience and range of skills in my resume: [https://drive.google.com/file/d/1LZ46VJXFo39Tco84uN7E2AzoYPa98nD4/view?usp=sharing](https://drive.google.com/file/d/1LZ46VJXFo39Tco84uN7E2AzoYPa98nD4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
