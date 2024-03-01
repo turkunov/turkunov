@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Turkunov Yaroslav</h1>
 <h3 align="center">I'm a junior Data Scientist and ML engineer with particular interest in fields of NLP and RecSys</h3>
 
-- 💼 Currently I'm working as Data Scientist at [VK](https://team.vk.company/company/)
+- 💼 Former DS @ [VK](https://team.vk.company/company/)
 
 - 🌌 I'm posting quite frequently about my journey in DS/ML as well as share research in my blog: https://t.me/burkunovich
 
